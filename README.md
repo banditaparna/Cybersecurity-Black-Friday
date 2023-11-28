@@ -15,6 +15,12 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
 - [Contributing](#contributing)
 
 ## Courses & Training
+
+- **EXPLIoT Academy (IoT Hacking Skills)**
+    - Link: https://academy.expliot.io/courses
+    - 4o% OFF on courses
+    - Deal ends: 30th November
+
 - **LetsDefend:** Blue Team Cybersecurity Training
   - **Link:** [letsdefend.io](https://letsdefend.io)
   - **50% Discount Code:** BLCKFRDY
