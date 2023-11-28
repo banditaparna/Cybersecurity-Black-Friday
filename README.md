@@ -87,6 +87,11 @@ Stay secure without breaking the bank! This repository curates a list of exclusi
   - **End Date:** November 26, 2023
 
 ## Tools
+- **EXPLIoT Store - Hardware Hacking Tools**
+    - **Link:** https://store.expliot.io/
+    - **Upto 30% OFF on all tools**
+    - **End Date:** 30th November
+      
 - **DOCGuard - Malware Analysis Tool**
   - **Link:** https://app.docguard.io/pricing
   - **Discount:** 50%
